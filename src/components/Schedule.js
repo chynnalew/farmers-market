@@ -35,4 +35,6 @@ const marketSchedule = [
      hours: "10:00am - 1:30pm",
      booth: "9G"
   }
- ];
+];
+ 
+export default marketSchedule;

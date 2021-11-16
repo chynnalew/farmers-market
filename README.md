@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+diagram:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<img src='./src/img/farmers-market.jpg'/>
 ## Available Scripts
 
 In the project directory, you can run:

@@ -1,0 +1,9 @@
+#header{
+  display: block;
+  width:90%;
+  text-align: center;
+  padding: 50px;
+  margin: auto;
+  border: 10px green dotted;
+  background-color: white;
+}

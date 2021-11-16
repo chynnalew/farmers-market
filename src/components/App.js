@@ -1,9 +1,14 @@
+import React from "react";
+import BigPapa from './BigPapa'
+import Header from './Header';
 
-import '../App.css';
 
 function App() {
   return (
-    "hello world"
+    <React.Fragment>
+      <Header />
+      <BigPapa />
+    </React.Fragment>
   );
 }
 
