@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/Location.css';
-import marketSchedule from './Schedule';
+// import marketSchedule from './Schedule';
 
 function Location() {
   return (

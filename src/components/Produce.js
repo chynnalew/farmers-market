@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/Produce.css';
-import availableProduce from './SeasonalProduce';
+// import availableProduce from './SeasonalProduce';
 
 function Produce() {
   return (

@@ -14,9 +14,11 @@ class BigPapa extends React.Component {
   }
 
   render() {
+    let buttonText = "button!";
     return (
       <React.Fragment>
         <CalendarDisplay />
+        <button onClick={this.handleClick}>{buttonText}</button>
         <div class='row'>
           <div class='col'>
             <Location />
